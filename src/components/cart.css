@@ -1,0 +1,14 @@
+/* src/components/Cart.css */
+.cart {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cart-item {
+    margin: 5px 0;
+  }
+  
